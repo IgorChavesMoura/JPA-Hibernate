@@ -5,4 +5,4 @@
 Recebe como argumento o objeto entidade a ser inserido no banco.
 
 ###find-> Select no banco
-Retorna um objeto entidade e recebo como argumento a classe entidade e o id desejado na tabela.
+Retorna um objeto entidade e recebo como argumento a classe entidade e o id do registro desejado na tabela.
