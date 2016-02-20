@@ -29,4 +29,6 @@ Pode ser usado para atualizar dados na tabela, porem ha meios melhores (set)
 
 ###sum -> retorna a soma dos valores buscados na query
 
-###avg -> retorna a media dos valored buscados na query
+###avg -> retorna a media dos valores buscados na query
+
+###count -> retorna a quantidade de valores buscado na query
