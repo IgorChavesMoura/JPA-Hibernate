@@ -24,3 +24,9 @@ Pode ser usado para atualizar dados na tabela, porem ha meios melhores (set)
 ###Para transformar duas relaçoes em uma relacao bidirecional->usar o mappedBy na anotação
 
 ###So há necessidade de abrir uma transaction se for fazer update ou insert no banco (commit) 
+
+##Funções da query:
+
+###sum -> retorna a soma dos valores buscados na query
+
+###avg -> retorna a media dos valored buscados na query
