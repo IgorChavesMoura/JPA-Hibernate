@@ -19,3 +19,6 @@ Se passar uma entidade detached, ele da erro, tem que usar o find pra pegar uma 
 
 ###merge->Transforma uma entidade detached em managed (Insert ou update no banco)
 Pode ser usado para atualizar dados na tabela, porem ha meios melhores (set)
+
+
+###Para transformar duas relaçoes em uma relacao bidirecional->usar o mappedBy na anotação
